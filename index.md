@@ -5,8 +5,8 @@ email:
   url: 1728739071@qq.com
   text: 1728739071@qq.com
 homepage:
-  url: https://shizhonggan.github.io/
-  text: https://shizhonggan.github.io/
+  url: https://ganshiqin819.github.io/
+  text: https://ganshiqin819.github.io/
 phone:
   url: 15188267012
   text: 15188267012
