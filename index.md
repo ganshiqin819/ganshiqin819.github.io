@@ -42,7 +42,7 @@ Supported arguments:
 - 善于思考：思维逻辑清晰，擅长学习，可塑性高<br>
 </div>
 
-<img align="right" width="100" src="media/profile.jpg"/>
+<img align="right" width="80" src="media/profile.jpg"/>
 
 </div>
 
