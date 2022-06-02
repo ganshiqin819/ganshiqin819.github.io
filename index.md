@@ -2,8 +2,8 @@
 layout: cv
 title: Shiqin Gan
 email:
-  url: 1728739071@qq.com
-  text: 1728739071@qq.com
+  url: ganshiqin819@163.com
+  text: ganshiqin819@163.com
 homepage:
   url: https://ganshiqin819.github.io/
   text: https://ganshiqin819.github.io/
