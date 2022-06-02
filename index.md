@@ -37,7 +37,7 @@ Supported arguments:
 - 专业能力：专业成绩优秀，具有良好的数理分析能力<br>
 </div>
 
-<img align="right" width="70" src="media/profile.jpg"/>
+<img align="right" width="90" src="media/profile.jpg"/>
 
 </div>
 
