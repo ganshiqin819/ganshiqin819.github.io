@@ -10,12 +10,6 @@ homepage:
 phone:
   url: 15188267012
   text: 15188267012
-female:
-  url: female
-  text: female
-marker:
-  url: 河南省信阳市
-  text: 河南省信阳市
 heart:
   url: 政治面貌
   text: 中共党员
