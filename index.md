@@ -35,14 +35,13 @@ Supported arguments:
 - 勤奋好学：有较强的资料检索能力，认真仔细，踏实肯干<br>
 - 善于思考：思维逻辑清晰，擅长学习，可塑性高<br>
 - 专业能力：专业成绩优秀，具有良好的数理分析能力<br>
+<br>
 </div>
 
 <img align="right" width="70" src="media/profile.jpg"/>
 
 </div>
 
-
----
 
 ## Education
 
